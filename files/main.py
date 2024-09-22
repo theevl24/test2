@@ -1,3 +1,3 @@
-int hui = 2
-def shluha(sa)
-    if (hui > chlen)
+int pi = 2
+def su(sa)
+    if (h > ch)
